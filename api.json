@@ -1,0 +1,17 @@
+{
+    "posts": [
+        {"id": 1, "title": "Post 01 - JavaScript e Next.js", "author": "JohnDoe"},
+        {"id": 2, "title": "Post 02 - JavaScript e Node.js", "author": "JohnDoe"},
+        {"id": 3, "title": "Post 03 - TypeScript", "author": "JohnDoe"},
+        {"id": 4, "title": "Post 04 - JavaScript e ReactJS", "author": "JohnDoe"}
+    ],
+    "comments": [
+        {"id": 1, "body": "Comentário 1 sobre Post 1", "postId": 1},
+        {"id": 2, "body": "Comentário 1 sobre Post 1", "postId": 2},
+        {"id": 3, "body": "Comentário 1 sobre Post 1", "postId": 3},
+        {"id": 4, "body": "Comentário 1 sobre Post 1", "postId": 1},
+        {"id": 5, "body": "Comentário 1 sobre Post 1", "postId": 2},
+        {"id": 6, "body": "Comentário 1 sobre Post 1", "postId": 4}
+    ],
+    "profile": {"name": "JohnDoe"}
+}
